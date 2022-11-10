@@ -1,7 +1,7 @@
 ## Bem vindo, me chamo Felipe Martins!
 
 - 👀 Estou interessado em aprender sobre programação.
-- 🎯 Estou focado em aprender Backend!
+- 🎯 Estou focado em seguir a linha de Desenvolvedor Backend!
 - 🌱 Estou aprendendo PhP e SQL Oracle.
 
 <div align="center">

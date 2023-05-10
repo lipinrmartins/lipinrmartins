@@ -2,7 +2,7 @@
 
 - 👀 Estou interessado em aprender sobre programação.
 - 🎯 Estou focado em seguir a linha de Desenvolvedor Backend!
-- 🌱 Estou aprendendo C# e SQL Oracle(PL/SQL).
+- 🌱 Estou aprendendo PhP# e SQL Oracle(PL/SQL).
 
 <div align="center">
   <a href="https://github.com/lipinrmartins">
